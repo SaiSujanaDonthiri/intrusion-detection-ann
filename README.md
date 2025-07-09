@@ -54,6 +54,10 @@ users.json          # Auto-generated file for user credentials
 temp_analysis.png   # Temporary image generated for analysis
 pie_chart.png       # Pie chart visualization
 heatmap.png         # Heatmap visualization
+
+# Certificate
+![Screenshot 2025-06-30 210354](https://github.com/user-attachments/assets/a8bfc49c-5eaa-4142-b836-43efd087ae4b)
+
 ```
 
 # Author
