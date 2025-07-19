@@ -11,12 +11,6 @@ This project is a graphical Intrusion Detection System (IDS) built with **Python
 - Visualize data with charts and heatmaps
 - Dark-themed Tkinter GUI for better user experience
 
-# Requirements
-
-Install the required Python libraries with:
-```bash
-pip install pandas scikit-learn matplotlib seaborn pillow
-```
 # How to Run
 
 1. Clone this repo or download `project.py`.
@@ -27,19 +21,6 @@ python project.py
 ```
 4. Register a user or log in to start using the system.
 5. Load your dataset, train the model, and make predictions.
-
-# Supported Dataset Format
-
-- Upload CSV files with **features in columns** and **target in the last column**
-- Example structure:
-```
-feature1, feature2, feature3, ..., threat_type
-value1, value2, value3, ..., normal
-```
-
-# Sample Screenshots
-![image](https://github.com/user-attachments/assets/21d6da0f-316b-4913-b157-ffef702b0cdf)
-![image](https://github.com/user-attachments/assets/c3f5857e-7608-442b-9374-c5330b24679f)
 
 # Project Structure
 
