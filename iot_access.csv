@@ -1,6 +1,0 @@
-device_type,packet_rate,error_rate,connection_time,data_volume,malicious
-camera,0.12,0.001,30,300,normal
-sensor,0.1,0.005,20,150,normal
-thermostat,0.3,0.002,15,200,attack
-sensor,0.09,0.007,25,100,normal
-camera,0.5,0.01,5,500,attack
