@@ -1,0 +1,9 @@
+duration,protocol_type,service,flag,src_bytes,dst_bytes,land,wrong_fragment,urgent,threat
+0,tcp,http,SF,181,5450,0,0,0,normal
+0,tcp,http,SF,239,486,0,0,0,normal
+0,tcp,http,SF,235,1337,0,0,0,normal
+0,tcp,http,SF,219,1337,0,0,0,normal
+0,tcp,http,SF,217,2032,0,0,0,probe
+0,tcp,http,SF,212,1940,0,0,0,probe
+0,tcp,http,SF,159,4087,0,0,0,dos
+0,tcp,http,SF,210,151,0,0,0,dos
